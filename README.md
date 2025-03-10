@@ -1,9 +1,8 @@
 ### Hola! Avirup here 👋
 
-- 🔭 I’m an IT undergrad.
-- 🌱 I’m currently learning MERN Stack
+- 🔭 I’m a professional Data Scientist.
 - 👯 I’m looking to collaborate on any productive projects.
-- 💬 Ask me anyting about tech and football. I promise will not make you bore!
+- 💬 Ask me anything about tech and football. I promise will not to make you bore!
 
 <br />
 
